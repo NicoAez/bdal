@@ -1,6 +1,6 @@
 package lab_two;
 
-public class Main {
+public class SplayTreeMain {
     public static void main(String[] args) {
         SplayTree st = new SplayTree();
 
