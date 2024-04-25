@@ -2,11 +2,12 @@ package lab_two;
 
 import java.util.*;
 
+// class turned into a toolbox rather than just a frequency counter...
 public class FrequencyCounter {
     public static TreeMap<Character, Double> getFrequencies(String string) {
         Map<Character, Integer> counters = new HashMap<>();
 
-        // counter characters
+        // count characters
         string
                 .chars()
                 .mapToObj(c -> (char) c)
@@ -36,5 +37,20 @@ public class FrequencyCounter {
         });
 
         return result.descendingMap();
+    }
+
+    public static Object[] getRequested(TreeMap<Character, Double> map) {
+        return map.keySet().toArray();
+    }
+
+    public static void shuffleArray(Object[] arr) {
+        Random random = new Random();
+        for(int i = arr.length - 1; i > 0; i--) {
+            int index = random.nextInt(i + 1);
+
+            Object a = arr[index];
+            arr[index] = arr[i];
+            arr[i] = a;
+        }
     }
 }
