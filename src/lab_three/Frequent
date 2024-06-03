@@ -1,0 +1,23 @@
+Items Monitor1 Monitor2 Monitor3
+L   (L,1)
+K   (L,1)   (K,1)
+M   (L,1)   (K,1)   (M,1)
+P
+L   (L,1)
+K   (L,1)   (K,1)
+K   (L,1)   (K,2)
+M   (L,1)   (K,2)   (M,1)
+P           (K,1)
+K           (K,2)
+K           (K,3)
+P   (P,1)   (K,3)
+M   (P,1)   (K,3)   (M,1)
+L           (K,2)
+P   (P,1)   (K,2)
+
+k = 4 - 1/4 - 3.75
+L: 3
+K: 5, is present
+M: 3
+P: 4, is present
+
