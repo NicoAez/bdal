@@ -53,7 +53,7 @@ public class Tabulation {
         System.out.println("Mixed: " + computeChiSquared(countAmountFlippedMixed));
     }
 
-    static long tabula32(long x, long[][] hTab) {
+    public static long tabula32(long x, long[][] hTab) {
         long hash = 0;
         long c;
 
@@ -66,7 +66,7 @@ public class Tabulation {
         return hash & 0xffffffffL;
     }
 
-    static long tabulaMix32(long x, long[][] hTab_32, long[][] hTab_64) {
+    public static long tabulaMix32(long x, long[][] hTab_32, long[][] hTab_64) {
         long hash = 0;
 
         for(int i = 0; i < 4; i++) {
@@ -83,7 +83,7 @@ public class Tabulation {
         return hash & 0xffffffffL;
     }
 
-    static long[][] generateTable(boolean big) {
+    public static long[][] generateTable(boolean big) {
         Random r = new Random();
         long max = big ? Long.MAX_VALUE : Integer.MAX_VALUE;
         long[][] table = new long[4][256];
@@ -97,7 +97,7 @@ public class Tabulation {
         return table;
     }
 
-    static double computeChiSquared(int[] observed) {
+    public static double computeChiSquared(int[] observed) {
         double result = 0;
         int mult = 10000000 * 32;
         for(int i = 0; i < 32; i++) {
@@ -111,7 +111,7 @@ public class Tabulation {
         return result;
     }
 
-    static long binomialInt(int n, int k) {
+    public static long binomialInt(int n, int k) {
         if (k > n - k)
             k = n - k;
 
