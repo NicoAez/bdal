@@ -1,0 +1,38 @@
+Dieser Text dient dem Testen des Suffix Arrays. Das Sortieren der Suffixe bei dem gegebenen Mann Buddenbrooks Text
+dauert bei mir leider viel zu lange. Meiner Meinung nach ist das ziemlich verdächtig! Vielleicht liegt es jar gar nicht
+an dem Sortieren selber, sondern an eventuellen Sonderzeichen? Vielleicht ist etwas ganz anderes das Problem? Ich weiß
+es nicht, aber dieser Text soll ein wenig abhilfe schaffen, um dem potenziellen Fehler auf die Spur zu kommen.
+Klar ist dieser Text nicht annähernd so lange wie der Mann Buddenbrooks Text, jedoch bemühe ich mich sehr einen langen
+Text zu verfassen, der diesem alle Ehre macht.
+Natürlich wäre es viel einfacher einfach einen Text aus dem Internet zu kopieren oder den Lorem Ipsum Generator
+anzuschmeißen, was ich wahrscheinlich im nächsten Schritt auch machen werde. Also bedanke ich mich bei allen
+Interessierten, die den Text bis hier gelesen haben. Nun folgt:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+aliqua. Scelerisque eleifend donec pretium vulputate. Purus sit amet luctus venenatis lectus magna fringilla urna
+porttitor. Nulla facilisi cras fermentum odio eu. Morbi non arcu risus quis varius quam quisque id diam. Egestas sed
+sed risus pretium quam. Massa tincidunt nunc pulvinar sapien. Viverra vitae congue eu consequat ac felis. Egestas quis
+ipsum suspendisse ultrices gravida dictum fusce ut placerat. Aenean pharetra magna ac placerat vestibulum lectus.
+Mollis aliquam ut porttitor leo a. Pretium lectus quam id leo in. Tempor orci dapibus ultrices in iaculis nunc sed
+augue. Lacus viverra vitae congue eu. Lobortis feugiat vivamus at augue eget. Nisi quis eleifend quam adipiscing vitae
+proin. Eu volutpat odio facilisis mauris sit amet. Ac odio tempor orci dapibus. Purus faucibus ornare suspendisse sed
+nisi lacus sed. Mauris pharetra et ultrices neque. Nunc sed velit dignissim sodales ut eu sem integer. Nulla posuere
+sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Lobortis elementum nibh tellus molestie nunc non
+blandit massa. Nibh sed pulvinar proin gravida. Nunc non blandit massa enim nec. Tellus elementum sagittis vitae et
+leo duis ut. Cursus sit amet dictum sit amet justo donec enim. Convallis tellus id interdum velit laoreet. Sit amet
+purus gravida quis blandit turpis. Euismod elementum nisi quis eleifend quam adipiscing vitae proin. Adipiscing at in
+tellus integer feugiat scelerisque varius morbi enim. Elit at imperdiet dui accumsan sit amet nulla facilisi. Arcu
+dictum varius duis at consectetur lorem. In nulla posuere sollicitudin aliquam ultrices sagittis. Dui faucibus in
+ornare quam viverra orci sagittis. Eu volutpat odio facilisis mauris sit amet. Ut pharetra sit amet aliquam id.
+ Vulputate mi sit amet mauris commodo. Quis blandit turpis cursus in hac habitasse. Potenti nullam ac tortor vitae
+ purus faucibus ornare suspendisse. Magna fermentum iaculis eu non diam phasellus vestibulum lorem. Pellentesque sit
+ amet porttitor eget dolor. Donec ultrices tincidunt arcu non. Amet venenatis urna cursus eget nunc scelerisque. A
+ condimentum vitae sapien pellentesque habitant. Urna cursus eget nunc scelerisque viverra mauris. Quis risus sed
+ vulputate odio ut enim blandit volutpat. Fermentum odio eu feugiat pretium nibh. Massa ultricies mi quis hendrerit
+ dolor magna eget. Montes nascetur ridiculus mus mauris. Donec ac odio tempor orci dapibus. Nibh praesent tristique
+ magna sit amet purus gravida. A condimentum vitae sapien pellentesque habitant. Amet consectetur adipiscing elit duis
+ tristique. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Consectetur libero id faucibus nisl
+ tincidunt eget nullam. Vitae proin sagittis nisl rhoncus mattis rhoncus. Aliquam ultrices sagittis orci a scelerisque
+ purus. Leo integer malesuada nunc vel risus commodo viverra. Molestie a iaculis at erat. Libero nunc consequat
+  interdum varius sit amet mattis vulputate. Tellus id interdum velit laoreet id. Ut placerat orci nulla pellentesque.
+  Tellus in hac habitasse platea. Condimentum mattis pellentesque id nibh tortor id aliquet lectus. Ut tortor pretium
+  viverra suspendisse potenti nullam ac tortor vitae.

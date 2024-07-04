@@ -1,0 +1,24 @@
+t = mississippi
+
+1 mississippi$          12           $          1 - 0
+2  ississippi$          11          i$          2 - 0
+3   ssissippi$          8        ippi$          3 - 1 "i"
+4    sissippi$          5     issippi$          4 - 1 "i"
+5     issippi$          2  ississippi$          5 - 4 "issi"
+6      ssippi$          1 mississippi$          6 - 0
+7       sippi$          10         pi$          7 - 0
+8        ippi$          9         ppi$          8 - 1 "p"
+9         ppi$          7       sippi$          9 - 0
+10         pi$          4    sissippi$         10 - 2 "si"
+11          i$          6      ssippi$         11 - 1 "s"
+12           $          3   ssissippi$         12 - 3 "ssi"
+
+Suffix Array for t = [12, 11, 8, 5, 2, 1, 10, 9, 7, 6, 4, 3]
+
+Longest lcp is "issi", average lcp of 13/12 = 1.083
+
+There are local maxima at [5] [8] [10] [12]
+- [5]: delimeters are "M" and "S" and therefore it is a supermaximal repeat
+- [8]: delimeters are "I" and "P" and therefore it is a supermaximal repeat
+- [10]: delimeters are "S" and "S" and therefore it is NOT a supermaximal repeat
+- [12]: delimeters are "I" and "I" and therefore it is NOT a supermaximal repeat
